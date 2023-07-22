@@ -87,3 +87,7 @@ name()
 // let name="abudullah"
 // const reqes=fetch("")
 // console.log("saif");
+
+//git add .
+//git commit -m "any commands"
+//git push origin master
